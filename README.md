@@ -1,1 +1,2 @@
 # MQTT-client-libraray-for-Micropython-
+As Esp8266 have built-in umqtt client library in firmaware but most of the cases when you are subscribing to a topic it will not work for that you can use this library in this you just have to save this file in esp8266 with mqtt.py and run it once when you have run it now you can use this by importinf like import mqqt thats it you can now freely use for publishing and subscribing
